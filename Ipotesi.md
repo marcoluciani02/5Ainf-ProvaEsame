@@ -8,7 +8,7 @@ La connessione con i tablet verrà eseguita in wireless. Alla rete potranno coll
 I dottori non potranno eseguire modifiche strutturali alla configurazione di rete, del server e del database, tale mansione è riservata all'amministratore di rete.
 I Medici saranno differenziati in dottori e infermieri. Tra le due categorie ci sarà differenza sulle possibilità di modifica al database. 
 Si ipotizza che la rete sia protetta da nat e firewall. Sarà possibile interagire sia in inbound che in outbound solo con i siti autorizzati e solo tramite protocollo https. 
-Si ipotizza che la configurazione della rete sia a stella estesa. 
+Si ipotizza che la configurazione della rete sia a stella estesa.
 Resta da stabilire la modalità di autenticazione di accesso alla rete da parte dei medici.
 Sul server si ipotizza sia presente un indirizzo apparte per la farmacia per la gestione delle richieste. La farmacia non avrà accesso alla inserimento dei dati all'interno del database ma si limiterà a visualizzare le richieste e confermare l'invio dei medici richiesti o inserirne un commento in caso di assenza del farmaco.
 Si ipotizza che la lunghezza massima del cavo lan tra il router e gli switch, tra due witch, tra uno switch e gli access point non possa superare la lunghezza di 50 per non avere perdite di segnale e di dati.

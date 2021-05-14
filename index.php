@@ -4,7 +4,7 @@
         <meta name="viewport" content="width=device-width">
         <title>Home Ospedale/title>
         <link href="style.css" rel="stylesheet" type="text/css" />
-        <link rel="shortcut icon" href="icona.ico" style="border-radius:20px 20px 20px 20px" />
+        
         <script src="script.js"></script>
       </head>
       <body>
